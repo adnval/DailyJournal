@@ -1,6 +1,10 @@
 # DailyJournal
 A react native mobile application designed to promote daily journaling as a means of improving mental health and productivity.
 
+<p align="center">
+  <img src="assets/DailyJournal_Demo.gif" width="300" alt="Demo">
+</p>
+
 ## Table of Contents
 + [Features](#features)
 + [Getting Started](#getting_started)
